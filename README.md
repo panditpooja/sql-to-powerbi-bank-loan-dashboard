@@ -111,9 +111,9 @@ This serves as proof of accuracy for stakeholders.
 ---
 
 ## 📸 Dashboard Snapshots
-![Summary Page](images/Dashboard_Page_1.jpeg)  
-![Overview Page](images/Dashboard_Page_2.jpeg)  
-![Details Page](images/Dashboard_Page_3.jpeg)  
+![Summary Page](images/Dashboard%20Page%201.jpeg)  
+![Overview Page](images/Dashboard%20Page%202.jpeg)  
+![Details Page](images/Dashboard%20Page%203.jpeg)  
 
 ---
 
