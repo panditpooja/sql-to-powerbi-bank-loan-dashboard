@@ -128,6 +128,23 @@ This serves as proof of accuracy for stakeholders.
 
 ---
 
+## 📂 Repository Structure
+```
+.
+├── README.md
+├── financial_loan.csv                 # Source data (CSV/XLSX form)
+├── Bank Loan PowerBI Dashboard.pbix    # Power BI file
+├── Bank Loan PowerBI Dashboard.pdf     # Static PDF export of the dashboard
+├── Bank Loan Report Query Document.pdf # SQL validation queries
+├── DAX Query Document.pdf              # DAX measures reference
+└── images/
+    ├── Dashboard Page 1.jpeg           # Summary
+    ├── Dashboard Page 2.jpeg           # Overview
+    └── Dashboard Page 3.jpeg           # Details
+```
+
+---
+
 ## ✍️ Author
 **Pooja Pandit**  
 Master’s Student in Information Science (Machine Learning)  
