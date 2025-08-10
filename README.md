@@ -120,7 +120,7 @@ This serves as proof of accuracy for stakeholders.
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/panditpooja/powerbi-survey-data-analytics.git
+   git clone https://github.com/panditpooja/sql-to-powerbi-bank-loan-dashboard.git
    ```
 2. Open the `.pbix` file in Power BI Desktop to explore the dashboard.  
 3. View static previews in JPG or PDF if Power BI Desktop is not installed.  
